@@ -1,0 +1,11 @@
+I am a university student and a hands-on AI engineer. 
+I have two products in development—both centered on AI solutions—
+each addressing a genuine pain point for a specific audience.
+
+I manage the full AI implementation lifecycle, applying the right tools at every stage: 
+RAG and fine-tuning to adapt models to specific contexts; context window engineering or 
+prompting with LangChain; observability and evaluation with Langfuse; guardrails for response safety and reliability; 
+and semantic caching for efficiency and cost-effectiveness.
+
+I invite you to check out my GitHub, where my projects are published and constantly evolving—each one receives continuous updates, 
+enhancements, and improvements, reflecting the active work behind every deliverable.
